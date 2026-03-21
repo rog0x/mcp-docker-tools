@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-docker-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-docker-tools)
+
 # mcp-docker-tools
 
 Docker management tools for AI agents, built on the [Model Context Protocol](https://modelcontextprotocol.io).
